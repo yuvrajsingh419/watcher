@@ -1,0 +1,104 @@
+body{
+    background-image: url("https://media.istockphoto.com/id/1425457555/photo/world-map-location-sign-on-dark-background-3d-render-concept-for-place.jpg?s=612x612&w=0&k=20&c=8XOwZwcyQJl7-v87PrYTDyzhPsDO5r_l8h28rupswCc=");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 1520px 1350px;
+}
+
+.main{
+    background-image: url("https://images.unsplash.com/photo-1564694202883-46e7448c1b26?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8YnVzJTIwdHJhbnNwb3J0JTIwYW5pbWF0aW9ufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 1520px 1350px;
+    padding-bottom: 240px;
+}
+
+.container{
+    width: 500px;
+    /* background-color: aqua; */
+    margin: 10px 20px 200px 450px;
+    padding: 30px 40px 50px 80px;
+    /* border: 3px dashed purple; */
+    border-radius: 5px;
+    /* background-color: palevioletred; */
+    size: 10px;
+    color: yellow;
+}
+
+#pass{
+    width: 200px;
+    height: 20px;
+    border-radius: 5px;
+}
+
+#uname{
+    width: 195px;
+    height: 20px;
+    border-radius: 5px;
+}
+label{
+    font-size: large;
+    margin-right: 40px;
+}
+
+
+.btn{
+    margin-right: 100px;
+    padding: 5px;
+    border-radius: 5px;
+}
+/* .sk{
+background-color: aqua;
+} */
+
+.btn:hover{
+    background-color: aquamarine;
+    color: brown;
+    transition: 1s;
+}
+
+.c1{
+    margin: 15px;
+    font-weight: 800;
+}
+
+.c2{
+    margin: 15px;
+    font-weight: 800;
+}
+
+.q{
+    margin-left: 30px;
+    margin-top: 60px;
+    padding: 10px;
+    border-radius: 25px;
+    background-color: blueviolet;
+    color: white;
+    font-size: large;
+    font-weight: 500;
+}
+
+.q:hover{
+    background-color: orangered;
+    color: black;
+    transition: 1s;
+}
+
+.ac{
+    margin-left: 50px;
+    margin-top: 200px;
+    display: flex;
+    color: wheat;
+    font-size: large;
+    font-weight: 300;
+    /* background-color: lavender; */
+}
+
+
+.one{
+    margin-bottom: 20px;
+    margin-right: 350px;
+}
+
+
+
